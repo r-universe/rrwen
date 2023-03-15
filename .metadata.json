@@ -2,5 +2,9 @@
   {
     "package": "draw",
     "oncran": true
+  },
+  {
+    "package": "nbc4va",
+    "oncran": true
   }
 ]
