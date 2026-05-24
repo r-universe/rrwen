@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "draw"]
-	path = draw
-	url = https://github.com/rrwen/draw
 [submodule "nbc4va"]
 	path = nbc4va
 	url = https://github.com/rrwen/nbc4va
